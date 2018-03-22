@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GooglePickers</string>
+    <string name="place_details">Click FAB to pick your Place</string>
+</resources>
